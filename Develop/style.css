@@ -57,3 +57,20 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+/* Styles for screens with a width of 600px or less */
+@media screen and (min-width: 600px) {
+  /* Add your styles here */
+  body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  footer p {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+}
