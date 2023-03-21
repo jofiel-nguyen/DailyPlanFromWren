@@ -1,4 +1,8 @@
 # Module5-ChallengeDailyPlanFromWren
+# This is my deployed link
+```
+https://nhunguyen-debug.github.io/Module5-ChallengeDailyPlanFromWren/
+```
 
 ## User Story
 
