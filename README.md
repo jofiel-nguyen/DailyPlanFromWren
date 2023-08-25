@@ -1,4 +1,4 @@
-# ChallengeDailyPlanFromWren
+# DailyPlanFromWren
 
 This is a simple daily planner web application designed to help employees with busy schedules effectively manage their time by adding important events to their daily schedule. The application is deployed at the following link: [ChallengeDailyPlanFromWren](https://nhunguyen-debug.github.io/Module5-ChallengeDailyPlanFromWren/).
 
